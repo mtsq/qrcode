@@ -1,1 +1,1 @@
-![alt 群二维码](./qrcode.jpeg)
+<img src="./qrcode.jpeg" alt="alt 群二维码" style="width:100%" />
